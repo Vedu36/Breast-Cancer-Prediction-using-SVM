@@ -1,4 +1,4 @@
-<h1>Breast Cancer Diagnosis Prediction</h3>
+<h1>Breast Cancer Diagnosis Prediction</h1>
 
 <h2>Overview</h2>
 This project aims to predict breast cancer diagnosis using machine learning techniques. The dataset utilized contains features computed from digitized images of fine needle aspirates (FNA) of breast masses. A Support Vector Machine (SVM) classifier is employed to predict the diagnosis (malignant or benign) based on these features.
